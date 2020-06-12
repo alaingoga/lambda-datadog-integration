@@ -1,0 +1,28 @@
+{
+  "name": "lambda-with-api-gateway",
+  "version": "1.0.0",
+  "description": "Simple lambda with api gateway on serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaingoga/lambda-datadog-integration.git"
+  },
+  "keywords": [
+    "lambda",
+    "datadog",
+    "serverless"
+  ],
+  "author": "Alain Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaingoga/lambda-datadog-integration/issues"
+  },
+  "homepage": "https://github.com/alaingoga/lambda-datadog-integration#readme",
+  "dependencies": {
+    "serverless": "^1.72.0",
+    "serverless-plugin-datadog": "^0.26.0"
+  }
+}
