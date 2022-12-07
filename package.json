@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/alaingoga/lambda-datadog-integration#readme",
   "dependencies": {
-    "serverless": "^1.72.0",
+    "serverless": "^3.25.1",
     "serverless-plugin-datadog": "^0.26.0"
   }
 }
